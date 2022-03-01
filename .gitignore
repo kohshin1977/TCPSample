@@ -1,0 +1,15 @@
+*.suo
+*.json
+*.db
+TCPSampleReceive/.vs/TCPSampleReceive/v17/HierarchyCache.v1.txt
+*.ipch
+*.user
+*.filters
+*.recipe
+*.ilk
+*.log
+*.obj
+*.tlog
+*.idb
+*.pdb
+*.exe
